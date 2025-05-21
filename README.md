@@ -72,6 +72,7 @@ The data is stored in an Excel Table named `RevenueData` on the `Daily Revenue` 
 
 - Client Codes are unique, and each is mapped to a specific Sales Representative.
 - Data shown is sample data and can be updated dynamically by expanding the `RevenueData` table.
+- Link of Dashboard  : https://github.com/ajcstanu/interactive-dashboard-report-/blob/main/DailyRevenue%20(Recovered).xls
 
 ---
 
